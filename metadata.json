@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard Blue Bolt",
+  "description": "Análise de tráfego pago e resultados",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
